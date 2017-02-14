@@ -1,4 +1,6 @@
-## Installtion
+[View on NPM][npm]
+
+## Installation
 ```
 npm install passwort --save
 ```
@@ -20,3 +22,4 @@ console.log('input =', input);
 console.log('hash =', hash);
 console.log('matching =', match?'yes':'no');
 ```
+[npm]: https://www.npmjs.com/package/passwort
